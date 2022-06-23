@@ -1,7 +1,7 @@
 //=============『 Utama 』================== //
 global.owner = ['6282135905896'] 
-global.mods = [] 
-global.prems = [''] 
+global.mods = ['6282135905896'] 
+global.prems = ['6282135905896'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'ᴹг defα͢͢͢ή彡'
@@ -13,7 +13,7 @@ global.pulsa = '081321776496'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ArullBotzMD'
+global.namebot = 'AlphabotMD'
 global.gc = 'https://chat.whatsapp.com/JVFN0SYnXLg23qjvickkdM'
 global.web = 'https://github.com/Sasal66/Alphabot-MD.git' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = 'Permanen 15.000\n1 bulan 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
